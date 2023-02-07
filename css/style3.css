@@ -1,0 +1,28 @@
+body{
+    direction: rtl;
+    font-family:'BNazanin';    
+}
+input{
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn{
+    background-color: aquamarine;
+    font-size: medium;
+    border-radius: 5px;
+}
+#heading2{
+    display: inline-block;
+  /*  margin-top: 50px;*/
+}
+#Table1{
+    display: flex;
+    gap:25px;
+    margin: auto;
+    align-items: baseline;
+}
+form{
+    display: flex;
+}
+

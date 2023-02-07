@@ -1,0 +1,27 @@
+body{
+    direction: rtl;
+    font-family:'BNazanin';
+}
+
+.class1{
+    font-size: 50px;
+}
+
+h3{
+
+    font-size: 26px;
+}
+
+
+li{
+    font-size: 20px;
+}
+
+#List2 li{
+    font-size:  15px;
+}
+
+#Link1{
+    font-size: 20px;
+}
+
